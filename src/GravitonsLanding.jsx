@@ -455,7 +455,7 @@ function ContactCTA() {
               href="mailto:info@gravitons.pk"
               className="btn-gold inline-flex items-center gap-2 font-body font-semibold px-7 py-3.5 rounded-full mt-8 transition-colors"
             >
-              <Mail size={18} /> Email Our Team
+              <Mail size={18} /> Email Us
             </a>
           </div>
 
